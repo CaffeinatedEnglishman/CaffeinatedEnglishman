@@ -1,6 +1,6 @@
 <!--
 **CaffeinatedEnglishman/CaffeinatedEnglishman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### Hi there, I'm Hope. 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a new project. I'm not sure what I'll make yet, but I want to get started on something.
